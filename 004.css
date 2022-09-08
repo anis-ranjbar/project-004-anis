@@ -229,7 +229,7 @@
 }   
 /**********************************/
 .fix{
-    background-image: linear-gradient(to bottom ,rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.6) ,rgba(0, 0, 0, 0.8)) ,  url(./max-letek-d9mooKDcw-s-unsplash.jpg);
+    background-image: linear-gradient(to bottom ,rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.6) ,rgba(0, 0, 0, 0.8)) ,  url(./pic/max-letek-d9mooKDcw-s-unsplash.jpg);
     background-attachment:fixed;
     height: 750px;
     padding: 0 180px;
